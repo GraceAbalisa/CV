@@ -1,1 +1,51 @@
-lllll
+body {
+  color: brown;
+  font-family: Futura;
+  padding: 20px;
+} 
+h1 {
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 15px ;
+}
+h2 {
+  background-color: coral;
+}
+h4 {
+  color: chocolate;
+}
+ul {
+  background-color: beige;
+}
+blockquote {
+  padding: 30px;
+  background-color: burlywood;
+  border-radius: 15px;
+  margin: 10px auto;
+  text-align: center;
+  width: 50%;
+}
+nav {
+  background-color: #ffdfd7;
+  padding: 10px;
+  margin: -8px;
+}
+
+a {
+  font-weight: 200;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-family: Helvetica;
+  color: #dda63e;
+  border-radius: 20px;
+}
+
+ul {
+  text-align: center;
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px 20px;
